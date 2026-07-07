@@ -1,3 +1,3 @@
 # python-basic-
-my first repository
-author - vipul sharma
+This is my first repository
+Author - Vipul Sharma
